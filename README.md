@@ -1,4 +1,6 @@
+
 # 4-bit ALU in Verilog
+   ![Waveform](waveform.png)
 
 A small combinational ALU with a self-checking testbench.
 
